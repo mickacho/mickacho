@@ -1,11 +1,6 @@
-<!-- ======================= HEADER ======================= -->
 
-<h1 align="center">
-  hey, i'm <span style="color:#00FFFF;">YOUR_NAME</span> 👋
-</h1>
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=I+build+things+with+data;ML+is+my+playground;Turning+coffee+into+models;Code.+Train.+Repeat." />
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+I'm+Mick;I'm a fullstack / ML engineer." />
 </h3>
 
 ---
@@ -17,8 +12,6 @@
 </p>
 
 ---
-
-<!-- ======================= TECH STACK ======================= -->
 
 ## ⚔️ tech arsenal
 
